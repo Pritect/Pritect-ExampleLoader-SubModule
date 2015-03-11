@@ -1,0 +1,3 @@
+[submodule "includes/Pritect-ExampleLoader"]
+	path = includes/Pritect-ExampleLoader
+	url = https://github.com/Pritect/Pritect-ExampleLoader
